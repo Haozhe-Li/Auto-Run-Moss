@@ -1,0 +1,4 @@
+ This file is optional. It would be easier to change this code and run it every time you copy it.
+ 
+ cd <your folder dir>
+ python3 run.py
